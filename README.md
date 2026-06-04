@@ -21,17 +21,19 @@ Neste notebook, trabalhei com Python, SQLite e SQL para explorar uma base com ma
 
 ## Destaques da análise ⭐
 
-#### Definição do escopo da análise e das perguntas de negócio.
+### Objetivo da análise
+
+Definição do escopo da análise e das perguntas de negócio.
 
 <img width="1322" height="257" alt="image" src="https://github.com/user-attachments/assets/7b0a8cad-e287-4c52-bff4-cdee6577aebc" />
 
-#### Base analisada
+### Base analisada
 
 Visão geral da base utilizada durante a análise.
 
 <img width="1340" height="643" alt="image" src="https://github.com/user-attachments/assets/b3adfb8b-d521-49e6-b872-0799f7114e79" />
 
-#### Exemplo de insight gerado
+### Exemplo de insight gerado
 
 Exemplo de análise desenvolvida para responder uma pergunta de negócio (*Taxas de juros mais altas estão associadas a maior risco?*)
 
