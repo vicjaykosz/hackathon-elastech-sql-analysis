@@ -1,8 +1,8 @@
 # Hackathon Elas+ Tech | Trilha de Dados
 
-Como etapa final da trilha de dados do Elas+ Tech, participei do Hackathon, onde fui responsável pela frente de SQL e análise de dados da equipe.
+Durante minha participação no Hackathon do Elas+ Tech, atuei na frente de SQL e análise de dados da equipe.
 
-Neste notebook, trabalhei com Python, SQLite e SQL para explorar uma base com mais de 421 mil registros, investigando a qualidade dos dados, construindo consultas e buscando respostas para perguntas de negócio a partir das informações disponíveis.
+Para isso, trabalhei com Python, SQLite e SQL para explorar uma base com mais de 421 mil registros, investigando a qualidade dos dados, construindo consultas e buscando respostas para perguntas de negócio a partir das informações disponíveis.
 
 ## O que você encontrará aqui
 
