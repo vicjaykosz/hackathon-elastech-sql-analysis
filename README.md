@@ -19,9 +19,9 @@ Para isso, trabalhei com Python, SQLite e SQL para explorar uma base com mais de
 * Python
 * Google Colab
 
-## Destaques da análise ⭐
+## Destaques da análise
 
-### Objetivo da análise
+### Objetivo
 
 Definição do escopo da análise e das perguntas de negócio.
 
